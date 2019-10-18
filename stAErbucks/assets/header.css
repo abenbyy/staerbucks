@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+}
+
+.divider{
+    background-color: black;
+    height: 100%;
+    width: 1px;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #004F34;
+    color: white;
+    height: 50px;
+}
+#update-div{
+    margin-right: 10px;
+    background-color: #004f40;
+}
+.second-navbar{
+    display: flex;
+}
+
+ul>li{
+    list-style-type: none;
+
+}
+nav{
+    display: flex;
+    
+}
+
+#navbar-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
