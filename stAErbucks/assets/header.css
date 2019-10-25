@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Lato,Helvetica,Arial,sans-serif;
     transition: 300ms;
 }
 
@@ -17,6 +16,7 @@ header{
     background-color: #004F34;
     color: white;
     height: 50px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
 }
 #update-div{
     margin-right: 10px;
@@ -35,6 +35,7 @@ ul>li{
 }
 nav{
     display: flex;
+    font-family: Lato,Helvetica,Arial,sans-serif;
     
 }
 
