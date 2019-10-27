@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    
     transition: 300ms;
 }
 
@@ -21,6 +21,7 @@ header{
 #update-div{
     margin-right: 10px;
     background-color: #004f40;
+    color: black;
 }
 .second-navbar{
     display: flex;
