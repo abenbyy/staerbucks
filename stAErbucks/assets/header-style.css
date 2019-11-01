@@ -37,7 +37,9 @@ ul>li{
 nav{
     display: flex;
     font-family: Lato,Helvetica,Arial,sans-serif;
-    
+    position: sticky;
+    top: 0;
+    background-color: white;
 }
 
 #second-navbar-container{
